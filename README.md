@@ -6,3 +6,6 @@ The micro:bit program can be seen online here as well as a screenshot and hex fi
 
 This is the guide used to help create the Scratch program. Constructing a Scratch program
 https://projects.raspberrypi.org/en/projects/physical-computing-with-scratch14/5
+
+This is our entry video
+https://www.youtube.com/watch?v=-9hklT73GCc
