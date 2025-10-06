@@ -9,3 +9,5 @@ https://projects.raspberrypi.org/en/projects/physical-computing-with-scratch14/5
 
 This is our entry video
 https://www.youtube.com/watch?v=-9hklT73GCc
+
+The files used in this project are all stored in the github.
